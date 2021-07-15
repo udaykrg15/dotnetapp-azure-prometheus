@@ -5,11 +5,11 @@ on:
       - main
 # At a minimum, change the variables denoted with a * in the comment in order to ensure uniqueness.
 env:
-  RESOURCEGROUPNAME: "azuremetrics-dotnet" # Azure Resource group's name *
+  RESOURCEGROUPNAME: "Uday_resource" # Azure Resource group's name *
   LOCATION: "East US" # Azure Resource group's location
   IMAGENAME: "azuremetricsdotnet" # Image name *
   REGISTRYSKU: "Standard" # Registry sku
-  REGISTRYNAME: "azuremetricsdotnet" # Container registry name *
+  REGISTRYNAME: "Udayregistry123" # Container registry name *
   REGISTRYLOCATION: "East US" # Container registry location
   CLUSTERNAME: "azuremetricsdotnet" # Cluster name *
   APPINSIGHTSLOCATION: "East US" # Application insights location
